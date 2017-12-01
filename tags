@@ -1,0 +1,35 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+BIG	SheetTrack.c	4;"	d	file:
+a	DoleQueue.c	/^int n, k, m, a[maxn];$/;"	v
+ans	SheetTrack.c	/^int d[maxd][maxd], d2[maxd][maxd], ans[maxd][maxd], cols[maxd];$/;"	v
+c	SheetTrack.c	/^int r, c, n;$/;"	v
+chance	GuessGame.c	/^int left, chance;$/;"	v
+cols	SheetTrack.c	/^int d[maxd][maxd], d2[maxd][maxd], ans[maxd][maxd], cols[maxd];$/;"	v
+copy	SheetTrack.c	/^copy(char type, int p, int q)$/;"	f
+d	SheetTrack.c	/^int d[maxd][maxd], d2[maxd][maxd], ans[maxd][maxd], cols[maxd];$/;"	v
+d2	SheetTrack.c	/^int d[maxd][maxd], d2[maxd][maxd], ans[maxd][maxd], cols[maxd];$/;"	v
+del	SheetTrack.c	/^del(char type)$/;"	f
+go	DoleQueue.c	/^int go(int p, int d, int t)$/;"	f
+guess	GuessGame.c	/^void guess(char ch)$/;"	f
+ins	SheetTrack.c	/^ins(char type)$/;"	f
+k	DoleQueue.c	/^int n, k, m, a[maxn];$/;"	v
+left	GuessGame.c	/^int left, chance;$/;"	v
+lose	GuessGame.c	/^int win, lose;$/;"	v
+m	DoleQueue.c	/^int n, k, m, a[maxn];$/;"	v
+main	DoleQueue.c	/^int main()$/;"	f
+main	GuessGame.c	/^int main()$/;"	f
+main	SheetTrack.c	/^main()$/;"	f
+maxd	SheetTrack.c	3;"	d	file:
+maxn	DoleQueue.c	2;"	d	file:
+maxn	GuessGame.c	3;"	d	file:
+n	DoleQueue.c	/^int n, k, m, a[maxn];$/;"	v
+n	SheetTrack.c	/^int r, c, n;$/;"	v
+r	SheetTrack.c	/^int r, c, n;$/;"	v
+s	GuessGame.c	/^char s[maxn], s2[maxn];$/;"	v
+s2	GuessGame.c	/^char s[maxn], s2[maxn];$/;"	v
+win	GuessGame.c	/^int win, lose;$/;"	v
